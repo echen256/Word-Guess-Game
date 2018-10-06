@@ -1,0 +1,29 @@
+.title {
+    font-size: 36pt;
+}
+.box{
+    padding: 2.5%;
+    font-size:28pt;
+    width: 95%;
+    text-align: center;
+    color:white;
+    
+}
+.border {
+    border:solid !important;
+    border-width: thick  !important;
+    border-color:darkgrey  !important;
+}
+body{
+    background-color: grey;
+
+}
+.container{
+}
+
+.img{
+    width:95%;
+    padding:2.5%;
+}
+
+
