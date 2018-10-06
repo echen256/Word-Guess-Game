@@ -26,7 +26,7 @@
                 numberOfTries--;
                 if (word.includes(key)) {
                     correctLetters.push(key);
-                    numberOfTries++;
+                    numberOfTries+= 2;
                 }
                 guessedLetters.push(key);
 
